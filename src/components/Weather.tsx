@@ -3,7 +3,7 @@ import ShowWeather from "./ShowWeather";
 import CircularProgress from '@material-ui/core/CircularProgress';
 import '../styles/App.css';
 
-const API_KEY = '62969573fb8bb1a4c1a2004ec5c053b2'
+const API_KEY = ''
 
 interface Props {}
 
